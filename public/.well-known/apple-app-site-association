@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "details": [{
+            "appIDs": ["L9H58VB7CU.com.yellowfeather.taptoattend"],
+            "components": [{
+                "/": "/stripe/*",
+                "comment": "Matches any URL whose path starts with /stripe/"
+            }]
+        }]
+    }
+}
