@@ -105,6 +105,6 @@ layout: '~/layouts/MarkdownLayout.astro'
 If you have questions about these Terms, please contact us:  
 
 **Yellow Feather Ltd**  
-**Email:** [support@yellowfeather.com]  
-**Address:** [Your Business Address]  
-**Company Number:** [Your Company Number]  
+**Email:** support@yellowfeather.com  
+**Address:** 23 Fairfield Road, Winchester, SO22 6SF, United Kingdom    
+**Company Number:** GB03435883  

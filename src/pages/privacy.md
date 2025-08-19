@@ -77,5 +77,5 @@ We may update this Privacy Policy from time to time. Significant changes will be
 If you have questions about this Privacy Policy or how we handle your data, contact us:  
 
 **Yellow Feather Ltd**  
-**Email:** [support@yellowfeather.com]  
-**Address:** [Your Business Address]  
+**Email:** support@yellowfeather.com  
+**Address:** 23 Fairfield Road, Winchester, SO22 6SF, United Kingdom    
