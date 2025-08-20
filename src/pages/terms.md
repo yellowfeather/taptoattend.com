@@ -6,14 +6,14 @@ layout: '~/layouts/MarkdownLayout.astro'
 **Last updated:** 19th August, 2025
 
 ## 1. Welcome  
-1.1 **Tap To Attend** (“we,” “our,” or “us”) is operated by **Yellow Feather Ltd**, registered in the United Kingdom. Our registered office is: [Your Address], and our company number is [Company Number].  
+1.1 **Tap To Attend** (“we,” “our,” or “us”) is operated by **Yellow Feather Ltd**, registered in the United Kingdom. Our registered office is: 23 Fairfield Road, Winchester, SO22 6SF, United Kingdom, and our company number is GB03435883.  
 
 1.2 These Terms, together with the license agreement made available when you download the Tap To Attend app (“App”), form the entire agreement between you (“you” or “your”) and us (“Agreement”).  
 
 1.3 By downloading, registering, or using the App, you agree to be bound by these Terms. If you do not agree, please do not use the App.  
 
 1.4 Your use of the App may also be subject to:  
-- Our separate **Privacy Policy**, which explains how your data is used.  
+- Our separate **[Privacy Policy](/privacy)**, which explains how your data is used.  
 - The terms of any third-party services we integrate with (SumUp, Tink, Supabase).  
 
 ---
